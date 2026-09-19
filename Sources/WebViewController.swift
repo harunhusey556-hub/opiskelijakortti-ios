@@ -4,7 +4,7 @@ import WebKit
 final class WebViewController: UIViewController {
 
     // ★ 改成你的网站地址
-    private static let homeURL = URL(string: "https://acknowledged-furniture-oxford-postal.trycloudflare.com/index.html")!
+    private static let homeURL = URL(string: "https://harunhusey556-hub.github.io/opiskelijakortti-app/index.html")!
 
     private var webView: WKWebView!
     private var themeObservation: NSKeyValueObservation?
